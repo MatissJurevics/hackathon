@@ -1,5 +1,5 @@
 Arguments: 
-  C:\Program Files\nodejs\node.exe C:\Users\matis\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add daisyui
+  C:\Program Files\nodejs\node.exe C:\Users\matis\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add marked
 
 PATH: 
   C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Alacritty\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Gemalto\Classic Client\BIN;C:\Program Files (x86)\Gemalto\Classic Client\BIN;C:\Program Files (x86)\IDEMIA\AWP\Dlls;C:\Program Files\IDEMIA\AWP\Dlls;C:\Program Files (x86)\eParaksts Token Signing\;C:\Program Files\Go\bin;C:\Program Files\GitHub CLI\;C:\Users\matis\.cargo\bin;C:\Users\matis\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\matis\AppData\Local\Programs\Python\Python311\;C:\Users\matis\AppData\Local\Microsoft\WindowsApps;C:\Users\matis\AppData\Roaming\npm;C:\Users\matis\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Users\matis\AppData\Local\Programs\Python\Python311;C:\Users\matis\go\bin
