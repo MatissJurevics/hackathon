@@ -2,6 +2,10 @@
 	
 </script>
 
+<nav></nav>
+
 <main>
-	<nav></nav>
+	
 </main>
+
+
